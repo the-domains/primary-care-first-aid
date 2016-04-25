@@ -1,0 +1,28 @@
+name: Primary Care First Aid
+favicon: null
+layout_spectrum: 0.38957722461782396
+typography_spectrum: 0.1826552958227694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2453010082244873
+  lightness: 0.8145325088407844
+  saturation: 0.03290140349417925
+  rhythmicContrast: 0.37411703588441014
+purpose: []
